@@ -1,0 +1,30 @@
+{
+"DESCRIPTION" : {"PM25":"초미세먼지 농도(단위:㎍/㎥)","CARBON":"일산화탄소 농도(단위:ppm)","POLLUTANT":"지수결정물질","PM10":"미세먼지 농도(단위:㎍/㎥)","MSRSTENAME":"측정소명","MAXINDEX":"통합대기환경지수","GRADE":"통합대기환경지수 등급","NITROGEN":"이산화질소 농도(단위:ppm)","MSRADMCODE":"측정소 행정코드","SULFUROUS":"아황산가스 농도(단위:ppm)","OZONE":"오존 농도(단위:ppm)","MSRDATE":"측정날짜"},
+"DATA" : [
+{"msrstename":"종로구","ozone":"0.035","carbon":"0.3","sulfurous":"0.003","maxindex":"68","pm10":"56","grade":"보통","pm25":"13","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.012","msradmcode":"111123"},
+{"msrstename":"중구","ozone":"0.037","carbon":"0.3","sulfurous":"0.003","maxindex":"56","pm10":"36","grade":"보통","pm25":"7","msrdate":"202502171200","pollutant":"O3","nitrogen":"0.009","msradmcode":"111121"},
+{"msrstename":"용산구","ozone":"0.030","carbon":"0.3","sulfurous":"0.003","maxindex":"70","pm10":"57","grade":"보통","pm25":"13","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.010","msradmcode":"111131"},
+{"msrstename":"성동구","ozone":"0.034","carbon":"0.3","sulfurous":"0.003","maxindex":"60","pm10":"48","grade":"보통","pm25":"10","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.012","msradmcode":"111142"},
+{"msrstename":"광진구","ozone":"0.041","carbon":"0.4","sulfurous":"0.004","maxindex":"62","pm10":"44","grade":"보통","pm25":"7","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.009","msradmcode":"111141"},
+{"msrstename":"동대문구","ozone":"0.036","carbon":"0.3","sulfurous":"0.003","maxindex":"60","pm10":"47","grade":"보통","pm25":"12","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.008","msradmcode":"111152"},
+{"msrstename":"중랑구","ozone":"0.033","carbon":"0.3","sulfurous":"0.003","maxindex":"64","pm10":"52","grade":"보통","pm25":"12","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.010","msradmcode":"111151"},
+{"msrstename":"성북구","ozone":"0.037","carbon":"0.2","sulfurous":"0.003","maxindex":"66","pm10":"52","grade":"보통","pm25":"13","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.010","msradmcode":"111161"},
+{"msrstename":"강북구","ozone":"0.039","carbon":"0.3","sulfurous":"0.003","maxindex":"65","pm10":"46","grade":"보통","pm25":"12","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.006","msradmcode":"111291"},
+{"msrstename":"도봉구","ozone":"0.045","carbon":"0.4","sulfurous":"0.003","maxindex":"69","pm10":"48","grade":"보통","pm25":"6","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.007","msradmcode":"111171"},
+{"msrstename":"노원구","ozone":"0.037","carbon":"0.3","sulfurous":"0.003","maxindex":"70","pm10":"54","grade":"보통","pm25":"16","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.009","msradmcode":"111311"},
+{"msrstename":"은평구","ozone":"0.030","carbon":"0.4","sulfurous":"0.003","maxindex":"70","pm10":"57","grade":"보통","pm25":"5","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.009","msradmcode":"111181"},
+{"msrstename":"서대문구","ozone":"0.039","carbon":"0.5","sulfurous":"0.003","maxindex":"72","pm10":"59","grade":"보통","pm25":"8","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.008","msradmcode":"111191"},
+{"msrstename":"마포구","ozone":"0.035","carbon":"0.3","sulfurous":"0.003","maxindex":"69","pm10":"62","grade":"보통","pm25":"19","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.011","msradmcode":"111201"},
+{"msrstename":"양천구","ozone":"0.036","carbon":"0.3","sulfurous":"0.003","maxindex":"65","pm10":"52","grade":"보통","pm25":"13","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.010","msradmcode":"111301"},
+{"msrstename":"강서구","ozone":"0.036","carbon":"0.3","sulfurous":"0.003","maxindex":"65","pm10":"51","grade":"보통","pm25":"7","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.010","msradmcode":"111212"},
+{"msrstename":"구로구","ozone":"0.034","carbon":"0.3","sulfurous":"0.003","maxindex":"73","pm10":"점검중","grade":"보통","pm25":"점검중","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.006","msradmcode":"111221"},
+{"msrstename":"금천구","ozone":"0.036","carbon":"0.3","sulfurous":"0.003","maxindex":"65","pm10":"51","grade":"보통","pm25":"17","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.011","msradmcode":"111281"},
+{"msrstename":"영등포구","ozone":"0.036","carbon":"0.3","sulfurous":"0.003","maxindex":"59","pm10":"44","grade":"보통","pm25":"11","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.014","msradmcode":"111231"},
+{"msrstename":"동작구","ozone":"0.037","carbon":"0.3","sulfurous":"0.003","maxindex":"68","pm10":"54","grade":"보통","pm25":"14","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.008","msradmcode":"111241"},
+{"msrstename":"관악구","ozone":"0.034","carbon":"0.3","sulfurous":"0.003","maxindex":"56","pm10":"39","grade":"보통","pm25":"7","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.011","msradmcode":"111251"},
+{"msrstename":"서초구","ozone":"0.035","carbon":"0.3","sulfurous":"0.003","maxindex":"79","pm10":"75","grade":"보통","pm25":"13","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.007","msradmcode":"111262"},
+{"msrstename":"강남구","ozone":"0.033","carbon":"0.3","sulfurous":"0.002","maxindex":"59","pm10":"46","grade":"보통","pm25":"8","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.011","msradmcode":"111261"},
+{"msrstename":"송파구","ozone":"0.033","carbon":"0.3","sulfurous":"0.003","maxindex":"66","pm10":"51","grade":"보통","pm25":"11","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.012","msradmcode":"111273"},
+{"msrstename":"강동구","ozone":"0.039","carbon":"0.4","sulfurous":"0.003","maxindex":"70","pm10":"60","grade":"보통","pm25":"12","msrdate":"202502171200","pollutant":"PM-10","nitrogen":"0.010","msradmcode":"111274"}
+]
+}
